@@ -10,6 +10,12 @@
 ### Code Usage
 
 ## Data
+For this project there was one main data set containg information about the top 25 books in the last 125 years. This data set contained the following:
+
+|    Column     |  Description  |
+| ------------- | ------------- |
+| Response_id   | Book ID for each individual book |
+| Story_name    | The novel title |
 
 ## Visualizations 
 
