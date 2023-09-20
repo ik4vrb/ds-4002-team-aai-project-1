@@ -3,7 +3,7 @@
 ### Project Information
   - DS 4002
   - Team: AAI
-  - This repository is a collaboration between Ishan Koroth, Ashley Huang, and Ana Cristina Cordova for their DS 4002 projects.
+  - This repository is a collaboration between Ishan Koroth, Ashley Huang, and Ana Cristina Cordova for DS 4002 Project 1
 
 ## Repository Contents 
 ### Code Building 
