@@ -11,7 +11,7 @@
 
 ## Data
 ### Main Data Set
-For this project there was one main data set containg information about the top 25 books in the last 125 years. This data set contained the following:
+For this project there was one main data set containg information about the top 25 books over the last 125 years. This data set contained the following:
 
 |    Column     |  Description  |
 | ------------- | ------------- |
@@ -24,7 +24,7 @@ For this project there was one main data set containg information about the top 
 | num_words      | The exact number of words that the hook has |
 
 ### List of Words
-For the inital EDA we also generated a list of around 1000 positive and negative words. This data set contained the following:
+For the inital EDA, a list of around 1000 positive and negative words is needed. This data set contained the following:
 
 |    Column     |  Description  |
 | ------------- | ------------- |
