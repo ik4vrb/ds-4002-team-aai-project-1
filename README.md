@@ -10,6 +10,33 @@
 
 A journey of a thousand pages begins with a single sentence. This single sentence is part of a hook. The purpose of the hook is to entice the reader to continue on their journey i.e. read the book. The hook leaves the first impression of the novel on the reader. Like how first impressions matter, so does the hook. There are many, many ways to write a hook. However, because there’s many ways to write a hook, it makes writing a good hook particularly difficult. Therefore, with all the ways to write a hook, are there hidden elements that differentiate between a hook and a great hook? What do the hooks of the most acclaimed novels have in common?
 
+In order to be able to conduct this analysis, we gathered the hooks from the best 25 novels over the course of the past 125 years. The list of the top 25 books was published by the New York Times. This are the 25 novels that we will be analyzing:
+  - Nineteen Eighty-Four by George Orwell
+  - All the Light We Cannot See	by Anthony Doerr
+  - Beloved	by Toni Morrison
+  - Catch-22 by Joseph Heller
+  - The Chatcher in the Rye	by J.D. Salinger
+  - Charlottes's Web	E.B. White
+  - A Confederacy of Dunces	 by John Kennedy Toole
+  - The Fellowship of the Ring	by J.R.R. Tolkein
+  - A Fine Balance	by Rohinton Mistry
+  - A Gentleman in Moscow	by Amor Towles
+  - A Fine Balance	by Rohinton Mistry
+  - Gone With the Wind	by Margaret Mitchell
+  - The Grapes of Wrath by	John Steinbeck
+  - The Great Gatsby	by F. Scott Fitzgerald
+  - The Handmaid’s Tale	by Margaret Atwood
+  - Harry Potter and the Sorcerer’s Stone	by J.K. Rowling
+  - Infinite by Jest	David Foster Wallace
+  - To Kill a Mockingbird	by Harper Lee
+  - A Little Life by Hanya Yanagihara
+  - Lolita	by Vladimir Nabokov
+  - Lonesome Dove	by Larry Mcmurtry
+  - One Hundred Years of Solitude by Gabriel Garcia Marquez
+  - The Overstory by	Richard Powers
+  - A Prayer for Owen Meany	 by John Irving
+  - A Tree Grows in Brooklyn	by Betty Smith
+  - Ulysses	by James Joyce
 
 
 ## Repository Contents 
