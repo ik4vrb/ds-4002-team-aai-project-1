@@ -2,15 +2,20 @@
 
 ### Project Information
   - DS 4002
+  - Project 1
   - Team: AAI
   - This repository is a collaboration between Ishan Koroth, Ashley Huang, and Ana Cristina Cordova for DS 4002 Project 1
 
+## Context
+
+A journey of a thousand pages begins with a single sentence. This single sentence is part of a hook. The purpose of the hook is to entice the reader to continue on their journey i.e. read the book. The hook leaves the first impression of the novel on the reader. Like how first impressions matter, so does the hook. There are many, many ways to write a hook. However, because there’s many ways to write a hook, it makes writing a good hook particularly difficult. Therefore, with all the ways to write a hook, are there hidden elements that differentiate between a hook and a great hook? What do the hooks of the most acclaimed novels have in common?
+
+
+
 ## Repository Contents 
 ### Code Building 
+
 ### Code Usage
-
-## Context 
-
 
 ## Data
 ### Main Data Set
@@ -38,5 +43,8 @@ For the inital EDA, a list of around 1000 positive and negative words is needed.
 ## Visualizations 
 
 ## Reference
-C. Wilson-Clark, “Computers ranked as key literacy,” The Atlanta Journal
-Constitution, November 24, 2024. [Online], Available: https://www.nytimes.com/interactive/2021/11/24/books/best-book-vote.html. [Accessed Sept. 18, 2023].
+[1] “Vote For the Best Book,” The New York Times, November 24, 2024. [Online], Available: https://www.nytimes.com/interactive/2021/11/24/books/best-book-vote.html. [Accessed Sept. 18, 2023].
+
+[2] Project Goal: [M1 Project 1]([https://pages.github.com/](https://docs.google.com/document/d/1i4sS1NQyEUDuwy_ixIY1v-LkcXKPx7PHKQ6wzbPDzV4/edit?usp=sharing)https://docs.google.com/document/d/1i4sS1NQyEUDuwy_ixIY1v-LkcXKPx7PHKQ6wzbPDzV4/edit?usp=sharing) 
+
+[3] Establish Data & Analysis Plan: [M2 Project](https://docs.google.com/document/d/1cel0WBVufGpupIIiwYumxygtfpUAnK3bwc2n_Wfrvc8/edit?usp=sharing)
