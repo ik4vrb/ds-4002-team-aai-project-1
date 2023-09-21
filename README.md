@@ -40,12 +40,25 @@ In order to be able to conduct this analysis, we gathered the hooks from the bes
 
 
 ## Repository Contents 
+ - Make an H2 (##) section explaining the contents of the repository
+ - SRC section
+ - Make an H3 section for Installing/Building your code
+ - Make an H3 section for Usage of your code
+   
 ### Code Building 
 
 ### Code Usage
 
+
 ## Data
+
+  - **(This one is tricky. Your data may (or not) fit in repo)
+  - Data Dictionary (use markdown table formatting)
+  - Data Files or Link to data if it doesn’t fit on github
+  - Relevant notes about use of data**
+
 All the data for this project can be found [here](https://github.com/ik4vrb/ds-4002-team-aai/tree/main/Data) or in the Data folder.
+
 ### Main Data Set
 For this project there was one main data set containg information about the top 25 books over the last 125 years. The data dictionary for this data set is the following:
 
@@ -69,8 +82,23 @@ For the inital EDA, a list of around 1000 positive and negative words is needed.
 
 
 ## Visualizations 
+  -   This will be in progress when MI3 is complete and finished during MI4
+  -   Table of contents describing all figures produced and summarizing their takeaways
+  -   Use markdown table formatting
+
+|    Figue ID     |  Figure Name  |  Description  |
+| ----------------| ------------- | ------------- |
+|      1          |               |               |
+|      2          |               |               |
+|      3          |               |               |
+
 
 ## Reference
+  - All references should be listed at the end of the Readme.md file
+  - (Use IEEE Documentation style (link))
+  - Include any acknowledgements
+  - Include (by link) your MI1 and MI2 assignments
+  - 
 [1] “Vote For the Best Book,” The New York Times, November 24, 2024. [Online], Available: https://www.nytimes.com/interactive/2021/11/24/books/best-book-vote.html. [Accessed Sept. 18, 2023].
 
 [2] Project Goal: [M1 Project 1](https://docs.google.com/document/d/1i4sS1NQyEUDuwy_ixIY1v-LkcXKPx7PHKQ6wzbPDzV4/edit?usp=sharing)
