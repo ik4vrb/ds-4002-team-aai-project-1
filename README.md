@@ -45,6 +45,7 @@ In order to be able to conduct this analysis, we gathered the hooks from the bes
 ### Code Usage
 
 ## Data
+All the data for this project can be found [here](https://github.com/ik4vrb/ds-4002-team-aai/tree/main/Data) or in the Data folder.
 ### Main Data Set
 For this project there was one main data set containg information about the top 25 books over the last 125 years. The data dictionary for this data set is the following:
 
