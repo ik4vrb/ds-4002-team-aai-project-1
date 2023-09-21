@@ -72,6 +72,6 @@ For the inital EDA, a list of around 1000 positive and negative words is needed.
 ## Reference
 [1] “Vote For the Best Book,” The New York Times, November 24, 2024. [Online], Available: https://www.nytimes.com/interactive/2021/11/24/books/best-book-vote.html. [Accessed Sept. 18, 2023].
 
-[2] Project Goal: [M1 Project 1](https://docs.google.com/document/d/1i4sS1NQyEUDuwy_ixIY1v-LkcXKPx7PHKQ6wzbPDzV4/edit?usp=sharing)https://docs.google.com/document/d/1i4sS1NQyEUDuwy_ixIY1v-LkcXKPx7PHKQ6wzbPDzV4/edit?usp=sharing) 
+[2] Project Goal: [M1 Project 1](https://docs.google.com/document/d/1i4sS1NQyEUDuwy_ixIY1v-LkcXKPx7PHKQ6wzbPDzV4/edit?usp=sharing)
 
 [3] Establish Data & Analysis Plan: [M2 Project](https://docs.google.com/document/d/1cel0WBVufGpupIIiwYumxygtfpUAnK3bwc2n_Wfrvc8/edit?usp=sharing)
