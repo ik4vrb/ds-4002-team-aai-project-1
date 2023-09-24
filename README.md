@@ -91,4 +91,4 @@ All data visulaizations are found [Visualizations](https://github.com/ik4vrb/ds-
 
 [2] Project Goal: [M1 Project 1](https://docs.google.com/document/d/1i4sS1NQyEUDuwy_ixIY1v-LkcXKPx7PHKQ6wzbPDzV4/edit?usp=sharing)
 
-[3] Establish Data & Analysis Plan: [M2 Project](https://docs.google.com/document/d/1cel0WBVufGpupIIiwYumxygtfpUAnK3bwc2n_Wfrvc8/edit?usp=sharing)
+[3] Establish Data & Analysis Plan: [M2 Project 1](https://docs.google.com/document/d/1cel0WBVufGpupIIiwYumxygtfpUAnK3bwc2n_Wfrvc8/edit?usp=sharing)
