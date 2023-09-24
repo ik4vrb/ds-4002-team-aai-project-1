@@ -51,12 +51,6 @@ In order to be able to conduct this analysis, we gathered the hooks from the bes
 
 
 ## Data
-
-  - **(This one is tricky. Your data may (or not) fit in repo)
-  - Data Dictionary (use markdown table formatting)
-  - Data Files or Link to data if it doesn’t fit on github
-  - Relevant notes about use of data**
-
 All the data for this project can be found [Data](https://github.com/ik4vrb/ds-4002-team-aai/tree/main/Data) folder.
 
 ### Main Data Set
@@ -93,11 +87,6 @@ All data visulaizations are found [Visualizations](https://github.com/ik4vrb/ds-
 
 
 ## Reference
-  - All references should be listed at the end of the Readme.md file
-  - (Use IEEE Documentation style (link))
-  - Include any acknowledgements
-  - Include (by link) your MI1 and MI2 assignments
-  - 
 [1] “Vote For the Best Book,” The New York Times, November 24, 2024. [Online], Available: https://www.nytimes.com/interactive/2021/11/24/books/best-book-vote.html. [Accessed Sept. 18, 2023].
 
 [2] Project Goal: [M1 Project 1](https://docs.google.com/document/d/1i4sS1NQyEUDuwy_ixIY1v-LkcXKPx7PHKQ6wzbPDzV4/edit?usp=sharing)
