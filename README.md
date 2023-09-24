@@ -82,15 +82,14 @@ For the inital EDA, a list of around 1000 positive and negative words is needed.
 
 
 ## Visualizations 
-  -   This will be in progress when MI3 is complete and finished during MI4
-  -   Table of contents describing all figures produced and summarizing their takeaways
-  -   Use markdown table formatting
+All data visulaizations are found [here](https://github.com/ik4vrb/ds-4002-team-aai/tree/main/Visualization), in the Visualization folder. 
 
 |    Figue ID     |  Figure Name  |  Description  |
 | ----------------| ------------- | ------------- |
-|      1          |               |               |
-|      2          |               |               |
-|      3          |               |               |
+|      1          | Sentiment Score vs Subjectivity Score |               |
+|      2          | Sentiment Score per Book Title |               |
+|      3          | The Average Parts of Speech Across 25 Introductions|               |
+|      4          | Sentiment Score per Genre|               |
 
 
 ## Reference
