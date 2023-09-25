@@ -81,7 +81,7 @@ All data visulaizations are found in the [Visualizations](https://github.com/ik4
 |    Figue ID     |  Figure Name  |  Description  |
 | ----------------| ------------- | ------------- |
 |      1          | Sentiment Score vs Subjectivity Score |               |
-|      2          | Sentiment Score per Book Title |               |
+|      2          | Sentiment Score per Book Title | This graph containes the individual sentiment score for each of the books used in the analysis. The graph demonstrates how all of the 25 intruductions that were anlyzed are close to 0 meaning that most of them were neutral in sentiment. |
 |      3          | The Average Parts of Speech Across 25 Introductions|               |
 |      4          | Sentiment Score per Genre|               |
 
