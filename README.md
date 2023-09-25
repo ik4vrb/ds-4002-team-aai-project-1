@@ -40,13 +40,10 @@ In order to be able to conduct this analysis, we gathered the hooks from the bes
 
 
 ## Repository Contents 
- - Make an H2 (##) section explaining the contents of the repository
- - SRC section
- - Make an H3 section for Installing/Building your code
- - Make an H3 section for Usage of your code
- - 
 All code used for this project can be found in the [SRC](https://github.com/ik4vrb/ds-4002-team-aai/tree/main/SRC) folder.
-### Code Building 
+
+### Code Intalling/Building 
+This project was created using Python
 
 ### Code Usage
 There are two files in the SRC folder:
