@@ -44,14 +44,15 @@ In order to be able to conduct this analysis, we gathered the hooks from the bes
  - SRC section
  - Make an H3 section for Installing/Building your code
  - Make an H3 section for Usage of your code
-   
+ - 
+All code used for this project can be found in the [SRC](https://github.com/ik4vrb/ds-4002-team-aai/tree/main/SRC) folder.
 ### Code Building 
 
 ### Code Usage
 
 
 ## Data
-All the data for this project can be found [Data](https://github.com/ik4vrb/ds-4002-team-aai/tree/main/Data) folder.
+All the data for this project can be found in the [Data](https://github.com/ik4vrb/ds-4002-team-aai/tree/main/Data) folder.
 
 ### Main Data Set
 For this project there was one main data set containg information about the top 25 books over the last 125 years. The data dictionary for this data set is the following:
@@ -76,7 +77,7 @@ For the inital EDA, a list of around 1000 positive and negative words is needed.
 
 
 ## Visualizations 
-All data visulaizations are found [Visualizations](https://github.com/ik4vrb/ds-4002-team-aai/tree/main/Visualizations) folder. 
+All data visulaizations are found in the [Visualizations](https://github.com/ik4vrb/ds-4002-team-aai/tree/main/Visualizations) folder. 
 
 |    Figue ID     |  Figure Name  |  Description  |
 | ----------------| ------------- | ------------- |
