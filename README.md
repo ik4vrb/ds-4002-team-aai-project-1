@@ -42,13 +42,20 @@ In order to be able to conduct this analysis, we gathered the hooks from the bes
 ## Repository Contents 
 All code used for this project can be found in the [SRC](https://github.com/ik4vrb/ds-4002-team-aai/tree/main/SRC) folder.
 
-### Code Intalling/Building 
-This project was created using Python
+### Code Installing/Building 
+This project was created using Python. Here are the steps:
+  1. Do a git clone or download the zip file to install everything.
+  2. Open the EDA_project1.py file in an IDE that runs Python.
+  3. Proceed by running the code, which will execute the code and output results for the syntax analysis.
+  4. Open the Data_Analysis.ipynb file in an IDE that runs Python, preferably Jupyter Notebook or something similar to that.
+  5. Run every chunk of the Data_Analysis.ipynb to output results for various sentimental analyses.
+  6. NOTE: If the pd.read_csv does not work, append "Data/" to the beginning of the string in the input. (EX: "Data/Top25_Books_Data - Sheet1.csv" in the second chunk)
+  7. An alternative to step 6 would be to move the files from Data into the same directory as the Data_Analysis.ipynb file.
 
 ### Code Usage
 There are two files in the SRC folder:
   1. The first one is called EDA project 1 and contains the intial EDA conducted on our data.
-  2.  The second file is called Data Anlysis that consists of the sentiment and syntax analysis conducted on the book intructions.
+  2.  The second file is called Data Analysis that consists of the sentiment and syntax analysis conducted on the book intructions.
 
 ## Data
 All the data for this project can be found in the [Data](https://github.com/ik4vrb/ds-4002-team-aai/tree/main/Data) folder.
