@@ -50,7 +50,7 @@ All code used for this project can be found in the [SRC](https://github.com/ik4v
 
 ### Code Usage
 There are two files in the SRC folder:
-  1. The frist one is called EDA project 1 and contains the intial EDA conducted on our data.
+  1. The first one is called EDA project 1 and contains the intial EDA conducted on our data.
   2.  The second file is called Data Anlysis that consists of the sentiment and syntax analysis conducted on the book intructions.
 
 ## Data
