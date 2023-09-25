@@ -92,6 +92,10 @@ All data visulaizations are found in the [Visualizations](https://github.com/ik4
 |      3          | The Average Parts of Speech Across 25 Introductions|(For this graph check the table below for the definition of X-axis)This graphs plots the avarage part of speeches through out all 25 books. The graph demonstartes that the the part of speech that occurs the most in book introductions are nouns.|
 |      4          | Sentiment Score per Genre| This graph contains the sentiment scores for each of the genres that were present for the 25 books. The graph demonstrates that most of the scroes were close to 0 meaning that the introductions were netural in sentiment; however, we can also see that most descriptions are above 0 meaning that they scored a little bit more positive in sentiment. |
 
+### Figure 3 Cheat Sheet
+|    X-axis tick  |  Full name    |  description  |
+| ----------------| ------------- | ------------- |
+
 
 ## Reference
 [1] “Vote For the Best Book,” The New York Times, November 24, 2024. [Online], Available: https://www.nytimes.com/interactive/2021/11/24/books/best-book-vote.html. [Accessed Sept. 18, 2023].
