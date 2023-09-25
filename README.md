@@ -93,9 +93,25 @@ All data visulaizations are found in the [Visualizations](https://github.com/ik4
 |      4          | Sentiment Score per Genre| This graph contains the sentiment scores for each of the genres that were present for the 25 books. The graph demonstrates that most of the scroes were close to 0 meaning that the introductions were netural in sentiment; however, we can also see that most descriptions are above 0 meaning that they scored a little bit more positive in sentiment. |
 
 ### Figure 3 Cheat Sheet
-|    X-axis tick  |  Full name    |  description  |
-| ----------------| ------------- | ------------- |
-
+|    X-axis tick  |  Description  |
+| ----------------| ------------- | 
+|       ADJ       |  adjective    |
+|       ADP       |  adposition   |
+|       ADV       |  adverb   |
+|       AUX       |  auxiliary   |
+|       CCONJ       |  coordinating conjunction   |
+|       DET       |  determiner   |
+|       INTJ       |  interjection   |
+|       NOUN       |  noun   |
+|       NUM       |  numeral   |
+|       PART       |  particle   |
+|       PRON       |  pronoun   |
+|       PROPN       |  proper noun   |
+|       PUNCT       |  punctuation |
+|       SCONJ       |  subordinating conjunction |
+|       SYM       |  symbol |
+|       VERB       |  verb |
+|       X       |  other |
 
 ## Reference
 [1] “Vote For the Best Book,” The New York Times, November 24, 2024. [Online], Available: https://www.nytimes.com/interactive/2021/11/24/books/best-book-vote.html. [Accessed Sept. 18, 2023].
